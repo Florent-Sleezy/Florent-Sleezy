@@ -1,6 +1,6 @@
 # Hello, I'm Florent Amenyido
 
-👨‍💻 Database Administrator | 📊 Data Analyst Enthusiast | 🚀 Aspiring Full Stack Developer
+👨‍💻 Database Administrator | 📊 Data Analyst | 🚀 Aspiring Full Stack Developer
 
 Welcome to my GitHub profile! I'm a dedicated IT professional with a strong foundation in database administration, complemented by my continuous exploration in data analytics and software engineering. I'm passionate about harnessing data to drive insights and create efficient systems.
 
