@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a dedicated IT professional with a strong foun
 
 - 📚 Google IT Support Professional Certificate Holder
 - 🌟 ISC² Certified in Cybersecurity Specialization
-- 📈 Actively advancing my skills in Data Analytics
+- 📈 Google Data Analytics Professional Certificate Holder
 - 🌐 Enrolled in the prestigious ALX Software Engineering Program
 
 ## 🌟 Key Skills
